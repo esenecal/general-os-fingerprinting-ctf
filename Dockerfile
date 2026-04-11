@@ -15,7 +15,7 @@ RUN pip3 install requests --break-system-packages
 RUN pip3 install netifaces --break-system-packages
 
 COPY pof-ctf /pof-ctf
-COPY satori /satori
+COPY satori-master /satori-master
 
 # apt update
 # apt upgrade -y
