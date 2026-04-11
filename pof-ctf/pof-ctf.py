@@ -6,7 +6,6 @@ q1_correct = False
 q2_correct = False
 
 print("Welcome to the General OS Fingerprinting CTF, part of the Cyber-266 Vulnerability Walkthrough Wiki.")
-print("Before beginning, download machine1.pcap and machine2.pcap from https://github.com/BYU-ECE-Software/Cyber-266-Vulnerability-Walkthroughs/tree/main/Passive-OS-Fingerprinting")
 print("Respond to the following questions. If both are answered correctly, the flag will be given. You will be told which is incorrect.")
 print()
 
