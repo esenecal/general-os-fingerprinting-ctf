@@ -9,7 +9,7 @@ print("Welcome to the Best Guess POF CTF, part of the Cyber-266 Vulnerability Wa
 print("Respond to the following questions. If both are answered correctly, the flag will be given. You will be told which is incorrect.")
 print()
 
-# Question 1. Loop until they get it right.
+# Question 1.
 print("---- Analyze machine1.pcap ----")
 print("What is one potential operating system running on the machine that made this pcap (check the local IP)? Answer with version numbers (example: Windows XP - 0000, Linux Mint 22.x)")
 q1_answer = input()        # get user input.
